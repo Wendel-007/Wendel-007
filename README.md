@@ -1,8 +1,13 @@
 ### Hi, I am Wendel! 👋
-I'm a computer engineering student looking for opportunities and collabaration in projects related to Data Science and Computer Vision.
-- 🔭 I'm currently studying image classification (also, I'm honing my data structures skills and algorithm skills, on a regular basis).
-- 🌱 I’m currently learning Computer Vision techniques using Python.
-- 🤝 I’m looking to collaborate on data science and deep learning projects. 
+I'm a computer engineering student with a passion for web development, both front-end and back-end.
+
+-🔭 I'm currently studying front-end technologies such as HTML, CSS and JavaScript, as well as exploring modern frameworks such as React and Next.js.
+
+-🌱 I'm also delving into the intricacies of back-end development, familiarizing myself with Node.js, Express and databases such as MongoDB and SQL.
+
+-🤝 I'm looking to collaborate on projects that involve both the development of user interfaces and the creation of robust APIs, where I can contribute my skills and learn from the community.
+
+
 
 <div align="center">
   <a href="https://github.com/Wendel-007">
@@ -11,12 +16,17 @@ I'm a computer engineering student looking for opportunities and collabaration i
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="35" width="40" src="https://th.bing.com/th/id/R.a96a2e420292e68da9d34e859cb2c510?rik=daZZ%2fs93F%2fIluQ&riu=http%3a%2f%2fcostanobreengenharia.com.br%2fwp-content%2fuploads%2f2017%2f05%2flinguagem-C.png&ehk=un3un7guA5N50sdgNwxQnTW9xlLRzeNlrg7IgzY829c%3d&risl=&pid=ImgRaw&r=0">
+  <img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ts" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="C" height="48" width="50" src="https://th.bing.com/th/id/R.a96a2e420292e68da9d34e859cb2c510?rik=daZZ%2fs93F%2fIluQ&riu=http%3a%2f%2fcostanobreengenharia.com.br%2fwp-content%2fuploads%2f2017%2f05%2flinguagem-C.png&ehk=un3un7guA5N50sdgNwxQnTW9xlLRzeNlrg7IgzY829c%3d&risl=&pid=ImgRaw&r=0">
+  <img align="center" alt="C" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png">
+  <img align="center" alt="Node" height="40" width="40" src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png">
+  <img align="center" alt="React" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">
+  <img align="center" alt="Next" height="40" width="60" src="https://seeklogo.com/images/N/next-js-logo-7929BCD36F-seeklogo.com.png">
+  <img align="center" alt="Tailwind" height="30" width="40" src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png">
+  <img align="center" alt="php" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/2560px-Webysther_20160423_-_Elephpant.svg.png">
 </div>
   
   ##
