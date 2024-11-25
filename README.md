@@ -15,14 +15,14 @@ I'm a computer engineering student with a passion for web development, both fron
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wendel-007&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<div style="display: inline_block"><br>
+<div align="center"><br>
   <img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="C" height="48" width="50" src="https://th.bing.com/th/id/R.a96a2e420292e68da9d34e859cb2c510?rik=daZZ%2fs93F%2fIluQ&riu=http%3a%2f%2fcostanobreengenharia.com.br%2fwp-content%2fuploads%2f2017%2f05%2flinguagem-C.png&ehk=un3un7guA5N50sdgNwxQnTW9xlLRzeNlrg7IgzY829c%3d&risl=&pid=ImgRaw&r=0">
   <img align="center" alt="C" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png">
-  <img align="center" alt="Node" height="40" width="40" src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png">
+  <img align="center" alt="Node" height="40"  width="40" src="https://cdn.iconscout.com/icon/free/png-256/free-node-js-logo-icon-download-in-svg-png-gif-file-formats--nodejs-programming-language-pack-logos-icons-1174925.png?f=webp&w=256">
   <img align="center" alt="React" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">
   <img align="center" alt="Next" height="40" width="60" src="https://seeklogo.com/images/N/next-js-logo-7929BCD36F-seeklogo.com.png">
   <img align="center" alt="Tailwind" height="30" width="40" src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png">
