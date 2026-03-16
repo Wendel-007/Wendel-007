@@ -1,32 +1,47 @@
-### Hi, I am Wendel! 👋
-I'm a computer engineering student with a passion for web development, both front-end and back-end.
+<div align="center">
 
--🔭 I'm currently studying front-end technologies such as HTML, CSS and JavaScript, as well as exploring modern frameworks such as React and Next.js.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&height=80&lines=Wendel+Dev)](https://git.io/typing-svg)
 
--🌱 I'm also delving into the intricacies of back-end development, familiarizing myself with Node.js, Express and databases such as MongoDB and SQL.
+<p>Full Stack Developer · Spring Boot · React.js</p>
 
--🤝 I'm looking to collaborate on projects that involve both the development of user interfaces and the creation of robust APIs, where I can contribute my skills and learn from the community.
+</div>
 
-
+---
 
 <div align="center">
-  <a href="https://github.com/Wendel-007">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Wendel-007&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Wendel-007&layout=compact&langs_count=7&theme=dracula"/>
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Wendel-007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Wendel-007&layout=compact&langs_count=7&theme=tokyonight&border_radius=12"/>
+
 </div>
 
-<div align="center"><br>
-  <img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="C" height="48" width="50" src="https://th.bing.com/th/id/R.a96a2e420292e68da9d34e859cb2c510?rik=daZZ%2fs93F%2fIluQ&riu=http%3a%2f%2fcostanobreengenharia.com.br%2fwp-content%2fuploads%2f2017%2f05%2flinguagem-C.png&ehk=un3un7guA5N50sdgNwxQnTW9xlLRzeNlrg7IgzY829c%3d&risl=&pid=ImgRaw&r=0">
-  <img align="center" alt="Tailwind" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png">
-  <img align="center" alt="C" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png">
-  <img align="center" alt="Node" height="40"  width="40" src="https://cdn.iconscout.com/icon/free/png-256/free-node-js-logo-icon-download-in-svg-png-gif-file-formats--nodejs-programming-language-pack-logos-icons-1174925.png?f=webp&w=256">
-  <img align="center" alt="React" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">
-  <img align="center" alt="Next" height="30" src="https://www.synergysparq.com/wp-content/uploads/2024/09/next-js-logo-small.png">
-  <img align="center" alt="php" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/2560px-Webysther_20160423_-_Elephpant.svg.png">
+---
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wendel-007/Wendel-007/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wendel-007/Wendel-007/output/github-contribution-grid-snake.svg"/>
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Wendel-007/Wendel-007/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+
+---
+
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 </div>
-  
-  ##
+
+</div>
