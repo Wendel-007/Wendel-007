@@ -10,15 +10,22 @@
 
 <div align="center">
 
-<img
-  height="180em"
-  src="https://github-stats-extended.vercel.app/api?username=Wendel-007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12"
-/>
-
-<img
-  height="180em"
-  src="https://github-stats-extended.vercel.app/api/top-langs/?username=Wendel-007&layout=compact&langs_count=7&theme=tokyonight&border_radius=12"
-/>
+<table>
+  <tr>
+    <td width="50%">
+      <img
+        width="100%"
+        src="https://github-stats-extended.vercel.app/api?username=Wendel-007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12"
+      />
+    </td>
+    <td width="50%">
+      <img
+        width="100%"
+        src="https://github-stats-extended.vercel.app/api/top-langs/?username=Wendel-007&layout=compact&langs_count=7&theme=tokyonight&border_radius=12"
+      />
+    </td>
+  </tr>
+</table>
 
 </div>
 
