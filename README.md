@@ -9,16 +9,21 @@
 ---
 
 <div align="center">
-  <img
-    src="https://github-stats-extended.vercel.app/api?username=Wendel-007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12"
-    width="49%"
-  />
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Wendel-007&layout=compact&langs_count=7&theme=tokyonight&border_radius=12"
-    width="49%"
-  />
-</div>
 
+<a href="https://github.com/Wendel-007">
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=Wendel-007&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+  />
+</a>
+<a href="https://github.com/Wendel-007">
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wendel-007&layout=donut&langs_count=6&theme=tokyonight&hide_border=true"
+  />
+</a>
+
+</div>
 ---
 
 <div align="center">
