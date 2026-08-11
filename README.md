@@ -10,8 +10,15 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Wendel-007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12"/>
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Wendel-007&layout=compact&langs_count=7&theme=tokyonight&border_radius=12"/>
+<img
+  height="180em"
+  src="https://github-stats-extended.vercel.app/api?username=Wendel-007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12"
+/>
+
+<img
+  height="180em"
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=Wendel-007&layout=compact&langs_count=7&theme=tokyonight&border_radius=12"
+/>
 
 </div>
 
@@ -20,10 +27,21 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wendel-007/Wendel-007/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wendel-007/Wendel-007/output/github-contribution-grid-snake.svg"/>
-  <img alt="snake animation" src="https://raw.githubusercontent.com/Wendel-007/Wendel-007/output/github-contribution-grid-snake-dark.svg"/>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Wendel-007/Wendel-007/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Wendel-007/Wendel-007/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="snake animation"
+    src="https://raw.githubusercontent.com/Wendel-007/Wendel-007/output/github-contribution-grid-snake-dark.svg"
+  />
 </picture>
+
+</div>
 
 ---
 
@@ -41,7 +59,5 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
 
 </div>
